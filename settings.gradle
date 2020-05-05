@@ -1,0 +1,2 @@
+rootProject.name='CitasMedicas'
+include ':app'
